@@ -1,4 +1,4 @@
-# powershellsysmonossecrules
+# Sysmon & OSSEC Custom Rules
 
 Extra rules to detect the latest trend in malicious use of Powershell commands.
 These rules detect most of the commands often used in attacks.
