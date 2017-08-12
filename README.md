@@ -7,4 +7,6 @@ Creator: The Security Stoic
 Sources: Experience & Symantec Whitepaper: Increased use of Powershell in attacks
 
 Feel free to use and tweak.
-Paste the rules in the 0330-sysmon_rules.xml file to use.
+Paste the rules in the local_rules.xml file in your OSSEC folder and restart.
+
+./var/ossec/bin/ossec-control restart
